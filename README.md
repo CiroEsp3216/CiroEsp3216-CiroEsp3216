@@ -72,7 +72,7 @@ Personal projects focused on networking, Linux and security testing.
 
 ## Contact
 Email: ciroe322@gmail.com 
-linkedin:Ciro Esposito
+linkedin:https://www.linkedin.com/in/ciro-esposito-786182361
 
 ---
 
